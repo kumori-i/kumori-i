@@ -1,42 +1,42 @@
-# Hi there! 👋 I'm Ethan
+# こにちわ! Hello!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)]https://www.linkedin.com/in/ethan-rendell-416a18268/
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)]https://www.linkedin.com/in/ethan-rendell/
 <!-- [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green)](Your Portfolio URL) -->
 
-Welcome to my GitHub profile! I'm passionate about Video Games & Software Development. Here you'll find a collection of my projects, contributions, and skills.
+Welcome to my GitHub profile! I'm passionate about video games, software development, web design, & anime. Here you'll find a collection of my projects, contributions, and skills.
 
 ## About Me
 
-Currently, I'm a Sophomore in Computer Science at Texas A&M University. I enjoy programming, playing Valorant, and . Always curious and eager to learn new technologies and improve my skills.
+Currently, I'm a sophomore in computer science at Texas A&M University. I enjoy programming, playing Valorant, and watching anime! Overall, I basically live online.
 
 ## Skills
 
-- Programming Languages: Javascript, C++, C, Java, Lua, Python, HTML, CSS, 
-- Frameworks: None
-- Tools & Technologies: Office 365, 
+- Programming Languages: Javascript, C++, C, Java, Lua, Python, HTML, CSS, SwiftUI, & Haskell
+- Tools & Technologies: Office 365, & computer assembly
 - Soft Skills: Basic Knowledge in Spanish, Greek, and Japanese
 
 ## Projects
 
-### Project 1 Name
+### 23 Datathon Bots Race
 
-Description: Brief description of the project.
+Description: Developed an efficient algoithm for a bot to follow a line based on input sensors.
 
-![Project 1 Demo](path/to/demo.gif)
+[tamu-datathon-bots-race-23]((https://github.com/Shed0/tamu-datathon-bots-race-23))
 
-[GitHub Repository](link-to-repo) | [Live Demo](link-to-demo)
+### The Myth of Oakrylon
+
+Descripion: A basic development of a 2D tile based game. Utilizes Lua & Love and basic 2 dimensional movement.
+
+[the-myth-of-oakrylon](https://github.com/Shed0/the-myth-of-oakrylon)
 
 
 ## Contact Me
 
 Feel free to reach out to me through any of the following platforms:
 
-- LinkedIn: https://www.linkedin.com/in/ethan-rendell-416a18268/
+- LinkedIn: https://www.linkedin.com/in/ethan-rendell/
 - Email: ethan.rendell@outlook.com
-
-## Thank You for Visiting!
-
-Thank you for checking out my profile. Feel free to explore my projects and reach out if you have any questions or just want to connect!
 
 
 <!---
