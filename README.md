@@ -1,8 +1,4 @@
-# こにちわ! Hello!
-
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)]https://www.linkedin.com/in/ethan-rendell/
-<!-- [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green)](Your Portfolio URL) -->
+# Hello!こにちわ!
 
 Welcome to my GitHub profile! I'm passionate about video games, software development, web design, & anime. Here you'll find a collection of my projects, contributions, and skills.
 
@@ -22,18 +18,18 @@ Currently, I'm a sophomore in computer science at Texas A&M University. I enjoy 
 
 Description: Developed an efficient algoithm for a bot to follow a line based on input sensors.
 
-[tamu-datathon-bots-race-23]((https://github.com/Shed0/tamu-datathon-bots-race-23))
+[tamu-datathon-bots-race-23](https://github.com/Shed0/tamu-datathon-bots-race-23)
 
 ### The Myth of Oakrylon
 
-Descripion: A basic development of a 2D tile based game. Utilizes Lua & Love and basic 2 dimensional movement.
+Description: A basic development of a 2D tile based game. Utilizes Lua & Love and basic 2 dimensional movement.
 
 [the-myth-of-oakrylon](https://github.com/Shed0/the-myth-of-oakrylon)
 
 
 ## Contact Me
 
-Feel free to reach out to me through any of the following platforms:
+You can reach me at:
 
 - LinkedIn: https://www.linkedin.com/in/ethan-rendell/
 - Email: ethan.rendell@outlook.com
