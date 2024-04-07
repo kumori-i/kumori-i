@@ -16,7 +16,7 @@ Currently, I'm a sophomore in computer science at Texas A&M University. I enjoy 
 
 ### 23 Datathon Bots Race
 
-Description: Developed an efficient algoithm for a bot to follow a line based on input sensors.
+Description: Developed an efficient algorithm for a bot to follow a line based on input sensors.
 
 [tamu-datathon-bots-race-23](https://github.com/Shed0/tamu-datathon-bots-race-23)
 
@@ -24,7 +24,7 @@ Description: Developed an efficient algoithm for a bot to follow a line based on
 
 Description: A basic development of a 2D tile based game. Utilizes Lua & Love and basic 2 dimensional movement.
 
-[the-myth-of-oakrylon](https://github.com/Shed0/the-myth-of-oakrylon)
+[the-myth-of-oakrylon](https://github.com/kumori-i/tamu-datathon-bots-race-23)
 
 
 ## Contact Me
