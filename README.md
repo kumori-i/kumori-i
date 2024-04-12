@@ -24,7 +24,7 @@ Description: Developed an efficient algorithm for a bot to follow a line based o
 
 Description: A basic development of a 2D tile based game. Utilizes Lua & Love and basic 2 dimensional movement.
 
-[the-myth-of-oakrylon](https://github.com/kumori-i/tamu-datathon-bots-race-23)
+[the-myth-of-oakrylon](https://github.com/kumori-i/the-myth-of-oakrylon)
 
 
 ## Contact Me
