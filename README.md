@@ -18,7 +18,14 @@ Currently, I'm a sophomore in computer science at Texas A&M University. I enjoy 
 
 Description: Developed an efficient algorithm for a bot to follow a line based on input sensors.
 
-[tamu-datathon-bots-race-23](https://github.com/Shed0/tamu-datathon-bots-race-23)
+[tamu-datathon-bots-race-23](https://github.com/kumori-i/tamu-datathon-bots-race-23)
+
+
+### 24 Webscraping Challenge
+
+Description: Developed a web scraper using Selenium and Requests to solve 4 levels of challenges for hidden information.
+
+[tamu-datathon-webscraping-24](https://github.com/kumori-i/tamu-datathon-webscraping-24)
 
 ### The Myth of Oakrylon
 
