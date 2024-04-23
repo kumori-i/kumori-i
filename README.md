@@ -21,7 +21,7 @@ Description: Developed an efficient algorithm for a bot to follow a line based o
 [tamu-datathon-bots-race-23](https://github.com/kumori-i/tamu-datathon-bots-race-23)
 
 
-### 24 Webscraping Challenge
+### 24 Datathon Webscraping Challenge
 
 Description: Developed a web scraper using Selenium and Requests to solve 4 levels of challenges for hidden information.
 
