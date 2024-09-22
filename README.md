@@ -1,10 +1,10 @@
-# Hello!こにちわ!
+# Hello!
 
 Welcome to my GitHub profile! I'm passionate about video games, software development, web design, & anime. Here you'll find a collection of my projects, contributions, and skills.
 
 ## About Me
 
-Currently, I'm a sophomore in computer science at Texas A&M University. I enjoy programming, playing Valorant, and watching anime! Overall, I basically live online.
+Currently, I'm a junior in computer science at Texas A&M University. I enjoy programming, playing Valorant, and watching anime! Overall, I basically live online.
 
 ## Skills
 
@@ -14,18 +14,23 @@ Currently, I'm a sophomore in computer science at Texas A&M University. I enjoy 
 
 ## Projects
 
-### 23 Datathon Bots Race
-
-Description: Developed an efficient algorithm for a bot to follow a line based on input sensors.
-
-[tamu-datathon-bots-race-23](https://github.com/kumori-i/tamu-datathon-bots-race-23)
-
-
 ### 24 Datathon Webscraping Challenge
 
 Description: Developed a web scraper using Selenium and BeautifulSoup to solve 4 levels of challenges for hidden information.
 
 [tamu-datathon-webscraping-24](https://github.com/kumori-i/tamu-datathon-webscraping-24)
+
+### 24 Y86 Assembly Circuit
+
+Description: Developed a basic assembly circuit to run simple mathematical and recurrsive functions.
+
+[tamu-y86-assembly-circuit-24]([https://github.com/kumori-i/tamu-y86-assembly-circuit-24])
+
+### 23 Datathon Bots Race
+
+Description: Developed an efficient algorithm for a bot to follow a line based on input sensors.
+
+[tamu-datathon-bots-race-23](https://github.com/kumori-i/tamu-datathon-bots-race-23)
 
 ### The Myth of Oakrylon
 
