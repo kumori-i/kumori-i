@@ -24,7 +24,7 @@ Description: Developed a web scraper using Selenium and BeautifulSoup to solve 4
 
 Description: Developed a basic assembly circuit to run simple mathematical and recurrsive functions.
 
-[tamu-y86-assembly-circuit-24]([https://github.com/kumori-i/tamu-y86-assembly-circuit-24])
+[tamu-y86-assembly-circuit-24](https://github.com/kumori-i/tamu-y86-assembly-circuit-24)
 
 ### 23 Datathon Bots Race
 
