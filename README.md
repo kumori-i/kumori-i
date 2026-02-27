@@ -1,47 +1,44 @@
 # Hello!
 
-Welcome to my GitHub profile! I'm passionate about video games, software development, web design, & anime. Here you'll find a collection of my projects, contributions, and skills.
+Welcome to my GitHub profile. I build across full-stack web apps, AI-assisted tooling, automation, and games.
 
 ## About Me
 
-Currently, I'm a junior in computer science at Texas A&M University. I enjoy programming, playing Valorant, and watching anime! Overall, I basically live online.
+I'm a senior Computer Science student at Texas A&M University. I enjoy shipping projects that combine solid engineering with practical user value.
 
 ## Skills
 
-- Programming Languages: Javascript, C++, C, Java, Lua, Python, HTML, CSS, SwiftUI, & Haskell
-- Tools & Technologies: Office 365, & computer assembly
-- Soft Skills: Basic Knowledge in Spanish, Greek, and Japanese
+- Languages: JavaScript/TypeScript, Python, Java, C/C++, Lua, HTML/CSS, SwiftUI, Haskell
+- Frameworks & Tools: React, Node.js/Express, Supabase, OAuth/JWT auth, Discord APIs, LLM integrations, Git/GitHub
+- Interests: AI systems, backend architecture, web products, and game development
 
-## Projects
+## Featured Projects
 
-### 24 Datathon Webscraping Challenge
+### Collegiate Scouting Platform (CSCE 482 Capstone)
 
-Description: Developed a web scraper using Selenium and BeautifulSoup to solve 4 levels of challenges for hidden information.
+Full-stack scouting platform with a React frontend and Express/Supabase backend, including JWT + Google OAuth authentication and provider-driven LLM generation (`tamu`, `gemini`, or `ollama`).
 
-[tamu-datathon-webscraping-24](https://github.com/kumori-i/tamu-datathon-webscraping-24)
+[team-collegiate-csce482-capstone](https://github.com/kumori-i/team-collegiate-csce482-capstone)
 
-### 24 Y86 Assembly Circuit
+### Discord Bots Workspace
 
-Description: Developed a basic assembly circuit to run simple mathematical and recurrsive functions.
+Multi-bot workspace focused on modular bot development. Current bot supports RSS ingestion and Ollama-based summarization for Discord.
 
-[tamu-y86-assembly-circuit-24](https://github.com/kumori-i/tamu-y86-assembly-circuit-24)
-
-### 23 Datathon Bots Race
-
-Description: Developed an efficient algorithm for a bot to follow a line based on input sensors.
-
-[tamu-datathon-bots-race-23](https://github.com/kumori-i/tamu-datathon-bots-race-23)
+[discord-server](https://github.com/kumori-i/discord-server)
 
 ### The Myth of Oakrylon
 
-Description: A basic development of a 2D tile based game. Utilizes Lua & Love and basic 2 dimensional movement.
+2D tile-based game prototype built with Lua and LÖVE, with custom state management, map assets, and gameplay systems.
 
 [the-myth-of-oakrylon](https://github.com/kumori-i/the-myth-of-oakrylon)
 
+### GiveCoin DApp
 
-## Contact Me
+Ethereum-style donation/token transfer DApp built with Truffle/Ganache workflow and a React frontend connected to smart contracts.
 
-You can reach me at:
+[givecoin-dapp](https://github.com/kumori-i/givecoin-dapp)
+
+## Contact
 
 - LinkedIn: https://www.linkedin.com/in/ethan-rendell/
 - Email: ethan.rendell@outlook.com
